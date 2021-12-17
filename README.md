@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Paienobe
-- 👀 I’m interested in web development, app creation & cyber security.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Progress Aienobe. I'm an aspiring fullstack developer. I currently work frontend with HTML, CSS and JavaScript and I've started learning React.
 
 <!---
 Paienobe/Paienobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
