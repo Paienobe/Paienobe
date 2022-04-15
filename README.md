@@ -1,4 +1,4 @@
-Hi, I'm Progress Aienobe. I'm an aspiring fullstack developer. I currently work frontend with HTML, CSS and JavaScript and I've started learning React.
+Hi, I'm Progress Aienobe. I'm a Frontend web developer. I currently build applications with HTML, CSS and JavaScript and React. I'm currently learning typescript and nextjs.
 
 <!---
 Paienobe/Paienobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
