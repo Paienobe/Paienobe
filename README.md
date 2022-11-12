@@ -1,5 +1,6 @@
 <h1 align="center">Hi, My name's Progress Aienobe 😉<br>I'm a Frontend Web Developer.</h1>
 <h3 align="center">I build applications using modern Frontend technologies and I love solving problems with code.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Paienobe&label=Profile%20views&color=0e75b6&style=flat" alt="Paienobe" /> </p>
 
 <!---
 Paienobe/Paienobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
