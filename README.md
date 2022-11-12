@@ -1,3 +1,4 @@
+<h1>Hi, My name's Progress Aienobe and I'm a Frontend web developer.</h1>
 Hi, I'm Progress Aienobe. I'm a Frontend web developer. I build applications with HTML, CSS, JavaScript, React, Nextjs & Tailwind.
 
 <!---
