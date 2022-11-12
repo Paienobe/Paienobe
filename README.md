@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name's Progress Aienobe 😉<br>I'm a Frontend Web Developer.</h1>
-<p>I build applications using modern Frontend technologies and I love solving problems with code.</p>
+<h3 align="center">I build applications using modern Frontend technologies and I love solving problems with code.</h3>
 
 <!---
 Paienobe/Paienobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
