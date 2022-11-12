@@ -15,7 +15,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" alt="react" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="github" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="git" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="next" width="40" height="40"/>
+  <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next" width="40" height="40"/>
 </p>
 
 <!---
