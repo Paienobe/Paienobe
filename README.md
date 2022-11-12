@@ -18,7 +18,7 @@
   <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godstimenwabue&show_icons=true&locale=en&layout=compact" alt="godstimenwabue" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paienobe&theme=dracula" alt="paienobe" /></p>
 
 <!---
 Paienobe/Paienobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
